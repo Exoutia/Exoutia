@@ -14,6 +14,9 @@ My github stats:
 My github Streak:
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
 
 
 
