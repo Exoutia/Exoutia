@@ -6,7 +6,9 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
 
 My github stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=gotham" alt="Exoutia github stats" />
+
+  
+  ![Exoutia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight)
   
   
 My github Streak:
