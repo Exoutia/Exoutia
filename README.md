@@ -2,8 +2,7 @@
 - 👀 I’m interested in Blockchain, Python, Data analysis.
 - 😁 Hello guys after some months I think I am ready to participate in this vast developer world hope to learn many things and can participate with all of you in open source community wish me luck guys.
 - 🌱 I’m currently learning many things but trying to focus on some basic blockchain, pyhton, dsa, etc.
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
+ 
 
 My github stats:
 
