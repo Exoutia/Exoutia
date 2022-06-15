@@ -6,7 +6,7 @@
 
 My github stats:
  
-  ![Exoutia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight"/>
 
 My github Streak:
   
