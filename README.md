@@ -6,11 +6,12 @@
 
 My github stats:
  
-  <img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight" alt="Bibek Jha stats"/>
 
-My github Streak:
+  <p style='text-align: right;'>My github Streak:</p>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
 
