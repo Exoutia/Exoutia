@@ -7,8 +7,7 @@
 <p align="left">My GitHub stats</p>
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight" alt="Bibek Jha stats"/>
-</a>
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
+</a><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&layout=compact"/>
   
