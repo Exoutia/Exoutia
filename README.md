@@ -7,7 +7,7 @@
 
 <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight" alt="Bibek Jha stats"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight&count_private=true" alt="Bibek Jha stats"/>
 
 <p align="center">My GitHub Streak:</p>
 
