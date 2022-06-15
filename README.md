@@ -21,6 +21,8 @@
   
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Exoutia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Exoutia/Exoutia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
