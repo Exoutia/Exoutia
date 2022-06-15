@@ -17,6 +17,8 @@
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&layout=compact"/>
   
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Exoutia)  
+  
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
 
