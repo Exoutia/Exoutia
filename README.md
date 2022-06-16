@@ -17,13 +17,14 @@
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&layout=compact"/>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Exoutia)  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Exoutia&theme=github)  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+  
   
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Exoutia)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!---
 Exoutia/Exoutia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
