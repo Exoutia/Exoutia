@@ -15,7 +15,7 @@
 
 <p align="center" 'text-style=Bold;'>My most used language:</p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&layout=compact"/>
+<p align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Exoutia&theme=github)  
   
