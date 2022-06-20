@@ -21,8 +21,6 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
   
-  
- 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
   
 <!---
