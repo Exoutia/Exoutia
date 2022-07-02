@@ -3,7 +3,10 @@
 - 👀 I’m interested in Blockchain, Python, Data analysis, Competetive coding, Web Devlopment.
 - 😁 Hello guys after some months I think I am ready to participate in this vast developer world hope to learn many things and can participate with all of you in open source community wish me luck guys.
 - 🌱 I’m currently learning many things but trying to focus on some basic blockchain, pyhton, dsa, etc.
+- ✌Connect with me at on-
 
+ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+ 
 
 <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
 
