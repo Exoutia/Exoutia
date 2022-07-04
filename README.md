@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning many things but trying to focus on some basic blockchain, pyhton, dsa, etc.
 - ✌Connect with me at -
 
- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+ [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BibekJha566)
  
 
 <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
