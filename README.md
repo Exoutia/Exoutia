@@ -3,10 +3,18 @@
 - 👀 I’m interested in Blockchain, Python, Data analysis, Competetive coding, Web Devlopment.
 - 😁 Hello guys after some months I think I am ready to participate in this vast developer world hope to learn many things and can participate with all of you in open source community wish me luck guys.
 - 🌱 I’m currently learning many things but trying to focus on some basic blockchain, pyhton, dsa, etc.
-- ✌Connect with me at -
-
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BibekJha566)
+- ✌Connect with me at - 
+ <p>
+ <a href="https://twitter.com/BibekJha566">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
+</p>
  
+ <p>
+ <a href="https://www.codewars.com/users/Exoutia">
+  <img src="https://www.codewars.com/users/Exoutia/badges/large">
+ </a>
+</p>
 
 <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
 
