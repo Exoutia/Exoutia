@@ -4,18 +4,20 @@
 - 😁 Hello guys after some months I think I am ready to participate in this vast developer world hope to learn many things and can participate with all of you in open source community wish me luck guys.
 - 🌱 I’m currently learning many things but trying to focus on some basic blockchain, pyhton, dsa, etc.
 - ✌Connect with me at - 
+<div id= "twitter">
  <p>
  <a href="https://twitter.com/BibekJha566">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a>
-</p>
+ </a>  
  
- <p>
  <a href="https://www.codewars.com/users/Exoutia">
-  <img src="https://www.codewars.com/users/Exoutia/badges/large">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+ </a>
+ <a href="https://www.linkedin.com/in/bibek-jha-aa288a202/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 </p>
-
+</div>
 <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight&count_private=true" alt="Bibek Jha stats"/>
