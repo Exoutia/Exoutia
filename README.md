@@ -1,15 +1,23 @@
 # <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I’m @Exoutia
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=4FF7CF&lines=Welcome+to+my+profile+%F0%9F%A4%97%F0%9F%A4%97;I+Love+new+technologies+%E2%9D%A4%EF%B8%8F%F0%9F%98%8D;Like+Blockchain%2C+ML%2C+AI%F0%9F%98%81%F0%9F%98%81+)](https://git.io/typing-svg)
+
+
+
+
+### **About Me 😊😊**
 - 👀 I’m interested in Blockchain, Python, Data analysis, Competetive coding, Web Devlopment.
-- 😁 Hello guys after some months I think I am ready to participate in this vast developer world hope to learn many things and can participate with all of you in open source community wish me luck guys.
-- 🌱 I’m currently learning many things but trying to focus on some basic blockchain, pyhton, dsa, etc.
-- ✌Connect with me at - 
-<div id= "twitter">
+- 😁 Hello guys after some months I am ready to participate in this vast developer world, hope to learn many new things and participate with all of you in open source community wish me luck guys.
+- 🌱 I’m currently learning Data Analysis, Web3.0, Web Development etc.
+
+### **My Skills 🚀**
+
+
+### **Connect with me at ✌😉**
+<div id= "Connect">
  <p>
  <a href="https://twitter.com/BibekJha566" target="blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>  
- 
  <a href="https://www.codewars.com/users/Exoutia" target="blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
  </a>
