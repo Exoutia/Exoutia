@@ -13,7 +13,8 @@
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-### **Connect with me at ✌😉**
+
+## **Connect with me at ✌😉**
 
 <div id= "Connect">
  <p>
@@ -29,6 +30,7 @@
 </p>
 </div>
 
+
 <div>
   <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
 
@@ -38,11 +40,11 @@
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
-  <p align="center" 'text-style=Bold;'>My most used language:</p>
+  <p align="center" >My most used language:</p>
     
-  <p align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <p align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Exoutia&theme=github)  
+  <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Exoutia&theme=github"></p>
 
 </div>
 
