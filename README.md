@@ -38,7 +38,7 @@
 
   <p align="center">My GitHub Streak:</p>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
 
   <p align="center" >My most used language:</p>
     
