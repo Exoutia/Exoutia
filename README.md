@@ -8,7 +8,7 @@
 - 😁 Hello guys after some months I am ready to participate in this vast developer world, hope to learn many new things and participate with all of you in open source community wish me luck guys.
 - 🌱 I’m currently learning Data Analysis, Web3.0, Web Development etc.
 
-### **My Skills 🚀**
+## **My Skills 🚀**
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
