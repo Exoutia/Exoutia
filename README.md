@@ -50,7 +50,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 [![@exoutia's Holopin board](https://holopin.io/api/user/board?user=exoutia)](https://holopin.io/@exoutia) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Exoutia&left_color=graygreen&right_color=blue)
+
 <!---
 Exoutia/Exoutia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
