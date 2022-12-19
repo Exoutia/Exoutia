@@ -55,8 +55,6 @@
   <p align="center">
     <img height="450px" src="https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar">
   </p>
-</div>
-<div>
   <p align="center">
     <img height="250px" width="1000px" src="https://holopin.io/api/user/board?user=exoutia">
   </p>
