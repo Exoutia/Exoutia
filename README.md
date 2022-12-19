@@ -34,24 +34,31 @@
 
 
 <div>
-  <p align="center" 'text-style=Bold;'>My GitHub Stats:</p>
+  <p align="left" 'text-style=Bold;'>My GitHub Stats:</p>
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight&count_private=true" alt="Bibek Jha stats"/>
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Exoutia&show_icons=true&theme=tokyonight&count_private=true" alt="Bibek Jha stats"/>
 </div>
 
 <div>
-  <p align="center">My GitHub Streak:</p>
+  <p align="right">My GitHub Streak:</p>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com?user=Exoutia&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <div>
-  <p align="center" >My most used language:</p>
+  <p align="left" >My most used language:</p>
 
-  <p align="center"><img height="250px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+  <p align="left"><img height="250px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-[![@exoutia's Holopin board](https://holopin.io/api/user/board?user=exoutia)](https://holopin.io/@exoutia)
-
+<div>
+  <p align="center">
+    <img height="450px" src="https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar">
+  </p>
+</div>
+<div>
+  <p align="center">
+    <img height="250px" width="1000px" src="https://holopin.io/api/user/board?user=exoutia">
+  </p>
+</div>
 
