@@ -49,14 +49,14 @@
   <p align="left" >My most used language:</p>
 
   <p align="left"><img height="250px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoutia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
-</div>
 
-<div>
   <p align="center">
-    <img height="450px" src="https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar">
+    <img height="450px"src="https://github-profile-trophy.vercel.app/?username=Exoutia&theme=onestar">
   </p>
-  <p align="center">
-    <img height="250px" width="1000px" src="https://holopin.io/api/user/board?user=exoutia">
+</div>
+<div>
+  <p>
+    <img src="https://holopin.io/api/user/board?user=exoutia">
   </p>
 </div>
 
