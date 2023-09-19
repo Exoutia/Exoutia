@@ -5,9 +5,9 @@
 
 ## **About Me 😊😊**
 
-- 👀 I’m interested in Blockchain, Python, Data analysis, Competetive coding, Web Devlopment, Rust.
+- 👀 I’m interested in Python, Data analysis, Competetive coding, Web Devlopment, Rust.
 - 😁 I am highly motivated guy and like to learn new things and try to solve them using many different methods.
-- 🌱 I’m currently learning Data Analysis, Rust, Web Development .
+- 🌱 I’m currently learning web development.
 
 ## **My Skills 🚀**
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
@@ -23,18 +23,22 @@
 ## **Connect with me at ✌😉**
 
 <div id= "Connect">
- <p>
- <a href="https://twitter.com/BibekJha566" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ <a href="https://discordapp.com/users/exoutia_" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord image">
  </a>
- <a href="https://www.codewars.com/users/Exoutia" target="blank">
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+ <a href="https://www.codewars.com/users/Exoutia" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars symbol">
  </a>
- <a href="https://www.linkedin.com/in/bibek-jha-aa288a202/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.linkedin.com/in/bibek-jha-aa288a202/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
  </a>
 </p>
 </div>
+
+## **My Workspace 💻**
+![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
 <div>
