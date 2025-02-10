@@ -8,18 +8,19 @@
 - 👀 I’m Proficient in Python and its different libraries.
 - 😁 I am highly motivated guy and like to learn new things and try to solve them using many different methods.
 - 🌱 I’m currently looking for a great project if you want to collaborate with me just ping me.
-- 📖 I'm currently learning functional programming.
+- 📖 I'm currently learning how to work with distributed system and deployments. 
 
 
 ## **My Skills 🚀**
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <!-- this link below is where i got badges -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
